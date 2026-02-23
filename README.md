@@ -288,13 +288,6 @@ cd fitx
 
 -----
 
-## 📜 License
-
-```
-MIT License — free to use, modify, and distribute.
-Attribution appreciated but not required.
-```
-
 -----
 
 ## 🙏 Acknowledgements
